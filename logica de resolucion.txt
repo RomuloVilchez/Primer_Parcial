@@ -1,0 +1,9 @@
+Primer Parcial 
+Nombre VILCHEZ ZORRILLA ROMULO ALCIDES
+
+Ejercicio 8
+
+ Para resolver el problema de los cerillos utilizamos la busqueda informada con heuristica,
+el algoritmo de busqueda funciona ya que nos permite ordenar una gran cantidad de valores, entonces 
+para resolver el problema se debe añadir a cada fosforo un valory tambien al espacio vacio para identificarlo asi lo podemos ver como si fuera un 
+puzzle lineal y que para ser resuelto debe ordenado de un resultado inicial a un resultado final  
